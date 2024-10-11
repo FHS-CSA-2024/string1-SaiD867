@@ -1,4 +1,9 @@
 package src.main.java;
+//There are a few errors in here that are preventing me from scoring. 
+//1. The class name should match the file name (String1)
+//2. There are multiple classes declared in this file which is not allowed and will not compile.
+//
+// I can score it if you fix these errors.
 
 public class string_1
 {
