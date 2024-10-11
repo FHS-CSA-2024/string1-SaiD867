@@ -37,17 +37,10 @@ public class string_1
      *  helloName("Alice") → "Hello Alice!"
      *  helloName("X") → "Hello X!"
      */
-public class helloName {
     public String helloNameMethod(String name) {
         return "Hello " + name + "!";
     }
 
-    public static void main(String[] args) {
-        helloName obj = new helloName();
-        String greeting = obj.helloNameMethod("Bob"); 
-        System.out.println(greeting); // Output: Hello Bob!
-    }
-}
 
 
 
